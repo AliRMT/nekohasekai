@@ -1,13 +1,5 @@
 ### 世界 (nekohasekai)
 
-#### About
-
-Neurological patients, psychiatric patients, MtX, amateur developer
-
-#### Contact
-
-sekai@neko.servcies
-
 #### PGP Signature
 
 DA55ACBFDDA40853BFC5496ECD109927C34A63C4
